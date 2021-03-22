@@ -61,10 +61,11 @@ header .menu a:hover {
     font-weight: bold;
 }
 
-@media (min-width: 480px) {
+@media (min-width: 540px) {
 
     header nav {
         display: flex;
+        align-items: center;
     }
 
     header .burger-icon {
@@ -167,4 +168,8 @@ header .banner h1 {
 .card-button:hover {
     background-color: black;
     color: white;
+}
+
+.active {
+    font-weight: bold;
 }
