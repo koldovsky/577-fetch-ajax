@@ -1,0 +1,11 @@
+{"name":"John Smith","password":"123456"}
+{"name":"Yoda","password":""}
+{"name":"Bohdanahk","password":"1111111"}
+{"name":"Halyna","password":"43536"}
+{"name":"Dmytro","password":"HelloWorld"}
+{"name":"Daniel","password":"XCDWFVGBHNFFVDV"}
+{"name":"Slavaskf","password":"1234567"}
+{"name":"me me me","password":"Qwerty12345"}
+{"name":"hello","password":""}
+{"name":"Khrystyna","password":"12345"}
+{"name":"Chewbacca","password":"chewie"}
